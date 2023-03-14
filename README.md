@@ -1,5 +1,5 @@
 # Tower-Defence-game
-Tower Defence type game.
+Tower Defence type game made in Unity
 
 
 ## Features:
